@@ -41,12 +41,15 @@ Name | Author(s)
 
 Name | Author(s)
 :-- | :--:
+[But How Do It Know?](http://www.buthowdoitknow.com/) | J. Clark Scott
 [Computer Systems: A Programmer's Perspective (3rd Edition)](http://csapp.cs.cmu.edu/) | Randal E. Bryant, David R. O'Hallaron
 [Modern Operating Systems (4th Edition)](http://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X/) | Andrew S. Tanenbaum, Herbert Bos
 [Computer Organization and Design: The Hardware/Software Interface](https://www.amazon.com/gp/product/0124077269) | David Patternson, John Hennessy
 [Computer Networks (5th Edition)](http://www.amazon.com/Computer-Networks-5th-Andrew-Tanenbaum/dp/0132126958/) | Andrew S. Tanenbaum, David J. Wetherall
 [Computer Networking: A Top-Down Approach (6th Edition)](https://www.amazon.com/Computer-Networking-A-Top-Down-Approach/dp/1292153598/) | James F Kurose, Keith W Ross
 [Distributed Systems: Principles and Paradigms](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X) | Andrew Tanenbaum
+[Operating Systems Design and Implementation](https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388) | Andrew S. Tanenbaum, Albert S. Woodhull
+[Principles of Compiler Design](https://www.amazon.com/Principles-Compiler-Addison-Wesley-information-processing/dp/0201000229) | Alfred Aho, Jeffrey Ullman
 [Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/) | Various
 [System Design: Design large-scale systems](https://github.com/donnemartin/system-design-primer) | Various
 
@@ -77,6 +80,6 @@ Name | Author(s)
 [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) | David Barber
 [Language Implementation Patterns](https://www.amazon.com/gp/product/193435645X) | Terence Parr
 [Compilers: Principles, Techniques, and Tools (2nd Edition)](http://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811/) | Alfred V. Aho, Monica S. Lam, Ravi Sethi,  Jeffrey D. Ullman
-[Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) | Niklaus Wirth 
+[Compiler Construction](https://inf.ethz.ch/personal/wirth/CompilerConstruction/index.html) | Niklaus Wirth 
 [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) | Fred Brooks, Jr.
 [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) | Matt Pharr, Wenzel Jakob, and Greg Humphreys
